@@ -1,0 +1,13 @@
+product_id,product_name,platform,product_url,current_price,original_price,rating,review_count,seller,availability,image_url,currency
+amz-wh1000xm5,Sony WH-1000XM5 Wireless Headphones,Amazon,https://www.amazon.in/dp/DEMOWH1000XM5,24990,29990,4.5,12400,Amazon Retail,In Stock,https://placehold.co/400x400?text=Sony+XM5,INR
+fk-wh1000xm5,Sony WH-1000XM5 Wireless Headphones,Flipkart,https://www.flipkart.com/product/demo-wh1000xm5,23990,29990,4.4,8900,RetailNet,In Stock,https://placehold.co/400x400?text=Sony+XM5,INR
+amz-iphone15,Apple iPhone 15 128GB,Amazon,https://www.amazon.in/dp/DEMOIPHONE15,69900,79900,4.6,21000,Amazon Retail,In Stock,https://placehold.co/400x400?text=iPhone+15,INR
+fk-iphone15,Apple iPhone 15 128GB,Flipkart,https://www.flipkart.com/product/demo-iphone15,68499,79900,4.5,17500,SuperComNet,In Stock,https://placehold.co/400x400?text=iPhone+15,INR
+amz-s24,Samsung Galaxy S24 256GB,Amazon,https://www.amazon.in/dp/DEMOS24,64999,79999,4.4,9800,Darshita,In Stock,https://placehold.co/400x400?text=Galaxy+S24,INR
+fk-s24,Samsung Galaxy S24 256GB,Flipkart,https://www.flipkart.com/product/demo-s24,65999,79999,4.3,7200,Truenet,In Stock,https://placehold.co/400x400?text=Galaxy+S24,INR
+amz-airmax,Nike Air Max 270,Amazon,https://www.amazon.in/dp/DEMOAIRMAX,8995,12995,4.2,3400,Just Lifestyle,In Stock,https://placehold.co/400x400?text=Air+Max,INR
+fk-airmax,Nike Air Max 270,Flipkart,https://www.flipkart.com/product/demo-airmax,8499,12995,4.1,2100,RetailNet,In Stock,https://placehold.co/400x400?text=Air+Max,INR
+amz-ipad,Apple iPad 10th Gen 64GB,Amazon,https://www.amazon.in/dp/DEMOIPAD10,34900,44900,4.7,5600,Amazon Retail,In Stock,https://placehold.co/400x400?text=iPad,INR
+fk-ipad,Apple iPad 10th Gen 64GB,Flipkart,https://www.flipkart.com/product/demo-ipad10,36490,44900,4.6,4100,SuperComNet,Limited Stock,https://placehold.co/400x400?text=iPad,INR
+amz-kindle,Kindle Paperwhite 16GB,Amazon,https://www.amazon.in/dp/DEMOKINDLE,10999,14999,4.6,18700,Amazon Retail,In Stock,https://placehold.co/400x400?text=Kindle,INR
+fk-kindle,Kindle Paperwhite 16GB,Flipkart,https://www.flipkart.com/product/demo-kindle,11499,14999,4.5,2300,RetailNet,In Stock,https://placehold.co/400x400?text=Kindle,INR
